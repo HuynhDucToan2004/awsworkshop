@@ -3,6 +3,7 @@ title: "Blog 3"
 date: 2026-07-10
 weight: 3
 draft: false
+pre: " <b> 3.3. </b> "
 ---
 
  ## Learn how Amazon Cognito automatically synchronizes authentication data across multiple regions to ensure application continuity during infrastructure outrages.
