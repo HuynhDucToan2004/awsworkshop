@@ -8,8 +8,6 @@ pre: " <b> 3. </b> "
 
 
 
-
-
 ###  [Blog 1 - Monitoring and Managing Claude Code Costs on Amazon Bedrock: A Comprehensive Guide for Developers](3.1-Blog1/)
 Blog này giới thiệu kiến trúc giám sát toàn diện cho Claude Code khi triển khai trong đội ngũ phát triển. Bài viết hướng dẫn cách thiết lập hệ thống thu thập dữ liệu qua OpenTelemetry để theo dõi chi phí sử dụng token, đo lường hiệu suất lập trình, và đặc biệt là cơ chế quản lý ngân sách (quota) tự động nhằm ngăn chặn lãng phí tài nguyên AWS.
 
