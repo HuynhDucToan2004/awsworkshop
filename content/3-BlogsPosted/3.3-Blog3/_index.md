@@ -1,6 +1,6 @@
 ---
 title: "Blog 3"
-date: 2026-07-10
+date: 2026-01-01
 weight: 3
 draft: false
 pre: " <b> 3.3. </b> "
