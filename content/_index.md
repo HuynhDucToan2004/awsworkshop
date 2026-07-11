@@ -16,7 +16,7 @@ chapter: false
 
 &emsp; **Email:** ttoann2004@gmail.com
 
-&emsp; **University:** Hutech University 
+&emsp; **University:** Ho Chi Minh City University of Technology (HUTECH) 
 
 &emsp; **Major:** Information Technology
 
@@ -24,7 +24,7 @@ chapter: false
 
 &emsp; **Internship Company:** Amazon Web Services Viet Nam Company Limited
 
-&emsp; **Internship Position:** Workforce Bootcamp - First Cloud AI Journey
+&emsp; **Internship Position:** FCJ Cloud Intern
 
 &emsp; **Internship Duration:** From 17/4/2026 to 30/7/2026
 

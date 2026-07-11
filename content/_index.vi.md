@@ -13,7 +13,7 @@ chapter: false
 
 &emsp; **Email:** ttoann2004@gmail.com
 
-&emsp; **Trường:** Đại học Huetch
+&emsp; **Trường:** Trường Đại học Công nghệ Thành phố Hồ Chí Minh (HUTECH)
 
 &emsp; **Ngành:** Công nghệ thông tin
 
@@ -21,7 +21,7 @@ chapter: false
 
 &emsp; **Công ty thực tập:** Công ty TNHH Amazon Web Services Việt Nam
 
-&emsp; **Vị trí thực tập:** Workforce Bootcamp - First Cloud AI Journey
+&emsp; **Vị trí thực tập:** FCJ Cloud Intern
 
 &emsp; **Thời gian thực tập:** Từ ngày 17/4/2026 đến ngày 30/7/2026
 
