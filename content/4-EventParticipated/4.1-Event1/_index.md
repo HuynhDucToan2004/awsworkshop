@@ -112,6 +112,9 @@ What impressed me most was that each presentation included illustrative examples
 
 Besides technical knowledge, the sharing about career development journeys and teamwork skills was also very valuable. I found that proactive learning, personal project development, and communication skills training are crucial elements for growth in the field of Information Technology.
 
+# Event Photos
 
+![alt text](<../../images/4-Event/E1/Event 06-06-2026.png>)
+![alt text](../../images/4-Event/E1/6-6-2026.png)
 
 > This series of workshops helped me expand my knowledge of modern technologies on AWS, understand more about software development trends, and gave me more motivation to continue learning, researching, and developing myself in the fields of Cloud Computing and AI.

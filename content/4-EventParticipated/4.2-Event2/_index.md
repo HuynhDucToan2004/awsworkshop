@@ -93,8 +93,8 @@ Through the presentations, I realized that a solid foundation is always more imp
 
 Besides technical knowledge, the Meetup also helped me better understand the work culture at multinational corporations, the recruitment process, and the skills that businesses truly expect from recent graduates.
 
-#### Some photos from the event
+# Event Photos
 
-* More photos of participants here.
+![alt text](<../../images/4-Event/E2/Event 13-06-2026.png>)
 
 > The Meetup not only provided knowledge about Cloud and DevOps but also motivated me to build a clear learning path, develop professional and soft skills to better prepare for work in the future.

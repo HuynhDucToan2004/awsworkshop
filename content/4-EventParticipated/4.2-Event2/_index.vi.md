@@ -77,8 +77,10 @@ Qua các phiên trình bày, tôi nhận ra rằng nền tảng luôn quan trọ
 
 Bên cạnh kiến thức kỹ thuật, buổi Meetup còn giúp tôi hiểu rõ hơn về văn hóa làm việc tại các tập đoàn đa quốc gia, quy trình tuyển dụng và những kỹ năng mà doanh nghiệp thực sự mong đợi ở sinh viên mới tốt nghiệp.
 
-#### Một số hình ảnh khi tham gia sự kiện
+# Hình ảnh sự kiện
 
-* Thêm các hình ảnh của các bạn tại đây.
+![alt text](<../../../images/4-Event/E2/Event 13-06-2026.png>)
+
+
 
 > Buổi Meetup không chỉ cung cấp kiến thức về Cloud và DevOps mà còn giúp tôi có thêm động lực để xây dựng lộ trình học tập rõ ràng, phát triển kỹ năng chuyên môn cũng như kỹ năng mềm nhằm chuẩn bị tốt hơn cho công việc trong tương lai.

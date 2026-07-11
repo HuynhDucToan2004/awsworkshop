@@ -85,4 +85,10 @@ Bên cạnh kiến thức kỹ thuật, những chia sẻ về hành trình phá
 
 
 
+# Hình ảnh sự kiện
+
+![alt text](<../../../images/4-Event/E1/Event 06-06-2026.png>)
+![alt text](../../../images/4-Event/E1/6-6-2026.png)
+
+
 > Chuỗi workshop giúp tôi mở rộng kiến thức về các công nghệ hiện đại trên AWS, hiểu thêm về xu hướng phát triển phần mềm và có thêm động lực để tiếp tục học tập, nghiên cứu cũng như phát triển bản thân trong lĩnh vực Cloud Computing và AI.
