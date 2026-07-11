@@ -1,5 +1,5 @@
 ---
-Title: "Worklog Week 11"
+Title: " Week 11 Worklog"
 Date: 2026-01-01
 Weight: 2
 Chapter: False

@@ -1,5 +1,5 @@
 ---
-Title: "Work Diary"
+Title: "Worklog"
 Date: 2026-07-10
 Weight: 1
 Chapter: False
