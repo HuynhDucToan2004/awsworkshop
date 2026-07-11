@@ -8,7 +8,7 @@ pre: " <b> 1. </b> "
 
 
 
-Trong suốt kỳ thực tập kéo dài 12 tuần tại **Amazon Web Services Viet Nam**, tôi đã trực tiếp tham gia vào lộ trình học tập nền tảng Cloud và triển khai dự án thực tế **DaiMarket**. Dưới đây là tóm tắt quá trình thực hiện công việc qua từng tuần:
+Trong suốt kỳ thực tập kéo dài 12 tuần tại **Amazon Web Services Việt Nam**, tôi đã trực tiếp tham gia vào lộ trình học tập nền tảng Cloud và triển khai dự án thực tế **DaiMarket**. Dưới đây là tóm tắt quá trình thực hiện công việc qua từng tuần:
 
 **Tuần 1:** [Làm quen môi trường, thiết lập tài khoản AWS Free Tier và thực hành các dịch vụ cơ bản](1.1-Week1/)
 
